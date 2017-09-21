@@ -1,0 +1,22 @@
+{
+  "name": "freqdecDatePicker",
+  "homepage": "https://github.com/formatreich/datePicker",
+  "authors": [
+    "Marc Hüser <m.hueser@ndr.de>"
+  ],
+  "description": "Accessible DatePicker",
+  "main": ["./js/datepicker.min.js", "./js/lang/de.js", "./css/datepicker.min.css"],
+  "keywords": [
+    "datepicker",
+    "accessibility"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
